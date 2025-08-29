@@ -9,7 +9,7 @@
     "apexcharts": "3.49.0",
     "bootstrap": "^5.3.5",
     "classnames": "^2.5.1",
-    "codemirror": "^5.65.15",
+    "codemirror": "^6.0.0",
     "codemirror-rego": "^1.2.2",
     "crypto-js": "^4.2.0",
     "diff": "^7.0.0",
